@@ -2,7 +2,5 @@
 
 http://域名/admin/
 
-![](../.gitbook/assets/image%20%288%29.png)
-
-
+![](../.gitbook/assets/qq20201009-0.jpg)
 
