@@ -14,6 +14,8 @@
 
 {% embed url="http://shop6.magic-in-china.com/" %}
 
+[http://meifuda-store.magic-in-china.com/](http://meifuda-store.magic-in-china.com/)
+
 
 
 
